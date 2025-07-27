@@ -1,12 +1,8 @@
-<!--
-  SAVE THIS AS README.md IN A REPOSITORY NAMED EXACTLY SwastikaManna
-  e.g. https://github.com/SwastikaMannaSwastikaManna
--->
-
 <!-- PROFILE HEADER -->
+<div>
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_user_id?v=4" alt="Swastika Manna" width="120" height="120" style="border-radius:50%;" />
-  <h1>Hey there 👋 I'm Swastika</h1>
+  <!--<img src="https://avatars.githubusercontent.com/u/your_user_id?v=4" alt="Swastika Manna" width="120" height="120" style="border-radius:50%;" />-->
+  <h1>Hey there 👋 I'm Swastika</h1></div>
   <h3>💻 2025 B.Tech Graduate | Aspiring Software Engineer / Analyst |</h3> 
   <h3>Code ✨ Create ✨ Conquer</p>
 </div>
