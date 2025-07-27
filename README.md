@@ -58,5 +58,4 @@
 <!-- CONTRIBUTIONS & STREAK -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwastikaManna&theme=dark" alt="GitHub Streak" />
-  <p><strong>Total Contributions (last year):</strong> ![Contributions](https://ghchart.rshah.org/SwastikaManna)</p>
 </div>
