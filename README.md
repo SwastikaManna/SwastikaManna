@@ -4,15 +4,15 @@
   <!--<img src="https://avatars.githubusercontent.com/u/your_user_id?v=4" alt="Swastika Manna" width="120" height="120" style="border-radius:50%;" />-->
   <h1>Hey there 👋 I'm Swastika</h1></div>
   <h3>💻 2025 B.Tech Graduate | Aspiring Software Engineer / Analyst |</h3> 
-  <h3>Code ✨ Create ✨ Conquer</p>
+  <h3>✨ Code ✨ Create ✨ Conquer ✨</p>
 </div>
 
 ---
 
-<div align="center">
+<div><h3>
   🌱 I’m deep diving into <strong>Java, Python, SQL, DSA</strong><br>
   ⚡ Fun fact: I survive on coffee, code & chaos 😎<br>
-  📫 Reach me at <a href="mailto:swastikamanna03@gmail.com">swastikamanna03@gmail.com</a>
+  📫 Reach me at <a href="mailto:swastikamanna03@gmail.com">swastikamanna03@gmail.com</a></h3>
 </div>
 
 ---
